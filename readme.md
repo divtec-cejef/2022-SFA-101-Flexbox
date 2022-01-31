@@ -3,6 +3,7 @@
 ## Documentation
 * https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* https://flexboxfroggy.com/#fr
 
 Petit cadeau 🎁, vous trouverez dans ce projet un fichier `css-flexbox.png`
 résumant les princes de _Flexbox_. À imprimer 🖨
