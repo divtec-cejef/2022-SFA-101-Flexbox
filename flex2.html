@@ -10,11 +10,18 @@
     <!-- Modifier le code CSS suivant pour réaliser l'exercice -->
     <style>
         ul {
-
+            display: flex;
+            justify-content: space-between;
         }
 
         li {
+            flex-grow: 1;
+            flex-shrink: 1;
+            flex-basis: 0;
+        }
 
+        li:first-child {
+            flex-grow: 2;
         }
     </style>
 </head>
