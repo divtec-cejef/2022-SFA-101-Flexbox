@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ffffff ;
+    color: #1E2019;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+}
+
+p {
+    line-height: 1.5;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+img.block {
+    max-width: 500px;
+    display: block;
+    margin: 40px auto;
+    padding: 20px;
+    background: #ffffff;
+}
+
+nav ul {
+    max-width: 700px;
+    list-style:none;
+    padding: 0;
+    margin: 0;
+}
+
+.donnee {
+    padding: 20px;
+    background-color: #FFC2D1 ;
+    margin-bottom: 40px;
+    border-bottom: 4px solid #4D7298;
+}
+
+.solution {
+    padding: 20px;
+}
+
+
+nav a:link,
+nav a:visited {
+    background-color: #4D7298;
+    border: 2px solid #77A6B6;
+    border-radius: .5em;
+    color: #fff;
+    padding: .5em;
+    display: inline-block;
+    text-decoration: none;
+}
