@@ -3,12 +3,14 @@
 }
 
 body {
-    background-color: #ffffff ;
+    background-color: #1E2019 ;
     color: #1E2019;
     font-family: 'Open Sans', sans-serif;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.4;
+    margin: 0 auto;
+    max-width: 800px;
 }
 
 p {
@@ -22,11 +24,11 @@ img {
 }
 
 img.block {
-    max-width: 500px;
     display: block;
     margin: 40px auto;
     padding: 20px;
     background: #ffffff;
+    max-height: 300px;
 }
 
 code {
@@ -39,12 +41,11 @@ code {
 .donnee {
     padding: 20px;
     background-color: #FFC2D1 ;
-    margin-bottom: 40px;
-    border-bottom: 4px solid #4D7298;
 }
 
 .solution {
-    padding: 20px;
+    background-color: #ffffff;
+    padding: 40px 20px;
 }
 
 
