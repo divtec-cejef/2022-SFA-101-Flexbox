@@ -29,6 +29,13 @@ img.block {
     background: #ffffff;
 }
 
+code {
+    background: #1E2019 ;
+    color: #FFC2D1 ;
+    display: inline-block;
+    padding: .2em .5em;
+}
+
 .donnee {
     padding: 20px;
     background-color: #FFC2D1 ;
@@ -74,4 +81,20 @@ img.block {
     border-radius: .5em;
     color: #fff;
     padding: .5em;
+}
+
+/**** FLEX 3 ******/
+.flex3 .parent {
+    border: 2px solid #77A6B6;
+    border-radius: .5em;
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.flex3 .child {
+    background-color: #4D7298;
+    color: #fff;
+    padding: .5em;
+    width: 150px;
 }
